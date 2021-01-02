@@ -1,7 +1,7 @@
 #! -*- coding:utf-8 -*-
 # 句子对分类任务，LCQMC数据集
 # val_acc: 0.887071, test_acc: 0.870320
-#.
+#...
 import numpy as np
 from bert4keras.backend import keras, set_gelu, K
 from bert4keras.tokenizers import Tokenizer
